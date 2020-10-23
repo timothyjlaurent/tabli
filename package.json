@@ -9,7 +9,7 @@
     "events": "^1.0.2",
     "font-awesome": "^4.4.0",
     "immutable": "^3.7.5",
-    "jquery": "^2.1.4",
+    "jquery": "^3.5.1",
     "lodash": "^3.10.1",
     "object-assign": "^4.0.1",
     "oneref": "^0.1.1",
