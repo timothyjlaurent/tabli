@@ -10,7 +10,7 @@
     "font-awesome": "^4.4.0",
     "immutable": "^3.7.5",
     "jquery": "^2.1.4",
-    "lodash": "^3.10.1",
+    "lodash": "^4.17.20",
     "object-assign": "^4.0.1",
     "oneref": "^0.1.1",
     "react": "^0.13.3"
