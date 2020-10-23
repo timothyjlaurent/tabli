@@ -13,7 +13,7 @@
     "lodash": "^3.10.1",
     "object-assign": "^4.0.1",
     "oneref": "^0.1.1",
-    "react": "^0.13.3"
+    "react": "^17.0.1"
   },
   "devDependencies": {
     "babel": "^5.8.23",
